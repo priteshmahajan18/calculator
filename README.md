@@ -1,4 +1,4 @@
-# calculator
+# Calculator
 
 This is simple calculator in PHP.
 
